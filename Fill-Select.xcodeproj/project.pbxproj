@@ -15,6 +15,13 @@
 		21B87DE61F3968A700D3563C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21B87DE41F3968A700D3563C /* LaunchScreen.storyboard */; };
 		21B87DF11F3968A700D3563C /* Fill_SelectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 21B87DF01F3968A700D3563C /* Fill_SelectTests.m */; };
 		21B87DFC1F3968A700D3563C /* Fill_SelectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 21B87DFB1F3968A700D3563C /* Fill_SelectUITests.m */; };
+		21B87E0B1F39692000D3563C /* SettingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 21B87E0A1F39692000D3563C /* SettingView.m */; };
+		21B87E111F3969EC00D3563C /* FProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 21B87E0E1F3969EC00D3563C /* FProgressView.m */; };
+		21B87E191F396A4300D3563C /* FImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 21B87E141F396A4300D3563C /* FImageView.m */; };
+		21B87E1A1F396A4300D3563C /* FLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 21B87E161F396A4300D3563C /* FLabel.m */; };
+		21B87E1B1F396A4300D3563C /* FView.m in Sources */ = {isa = PBXBuildFile; fileRef = 21B87E181F396A4300D3563C /* FView.m */; };
+		21B87E1F1F396E7100D3563C /* SelectItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 21B87E1E1F396E7100D3563C /* SelectItemCell.m */; };
+		21B87E211F39886F00D3563C /* yes@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 21B87E201F39886F00D3563C /* yes@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +58,21 @@
 		21B87DF71F3968A700D3563C /* Fill-SelectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fill-SelectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		21B87DFB1F3968A700D3563C /* Fill_SelectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Fill_SelectUITests.m; sourceTree = "<group>"; };
 		21B87DFD1F3968A700D3563C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		21B87E091F39692000D3563C /* SettingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingView.h; sourceTree = "<group>"; };
+		21B87E0A1F39692000D3563C /* SettingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingView.m; sourceTree = "<group>"; };
+		21B87E0C1F39697400D3563C /* HDEFINE.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HDEFINE.h; sourceTree = "<group>"; };
+		21B87E0D1F3969EC00D3563C /* FProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FProgressView.h; sourceTree = "<group>"; };
+		21B87E0E1F3969EC00D3563C /* FProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FProgressView.m; sourceTree = "<group>"; };
+		21B87E131F396A4300D3563C /* FImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FImageView.h; sourceTree = "<group>"; };
+		21B87E141F396A4300D3563C /* FImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FImageView.m; sourceTree = "<group>"; };
+		21B87E151F396A4300D3563C /* FLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FLabel.h; sourceTree = "<group>"; };
+		21B87E161F396A4300D3563C /* FLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FLabel.m; sourceTree = "<group>"; };
+		21B87E171F396A4300D3563C /* FView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FView.h; sourceTree = "<group>"; };
+		21B87E181F396A4300D3563C /* FView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FView.m; sourceTree = "<group>"; };
+		21B87E1C1F396AC700D3563C /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		21B87E1D1F396E7100D3563C /* SelectItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectItemCell.h; sourceTree = "<group>"; };
+		21B87E1E1F396E7100D3563C /* SelectItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectItemCell.m; sourceTree = "<group>"; };
+		21B87E201F39886F00D3563C /* yes@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yes@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +127,21 @@
 				21B87DDA1F3968A700D3563C /* AppDelegate.m */,
 				21B87DDC1F3968A700D3563C /* ViewController.h */,
 				21B87DDD1F3968A700D3563C /* ViewController.m */,
+				21B87E0D1F3969EC00D3563C /* FProgressView.h */,
+				21B87E0E1F3969EC00D3563C /* FProgressView.m */,
+				21B87E091F39692000D3563C /* SettingView.h */,
+				21B87E0A1F39692000D3563C /* SettingView.m */,
+				21B87E1D1F396E7100D3563C /* SelectItemCell.h */,
+				21B87E1E1F396E7100D3563C /* SelectItemCell.m */,
+				21B87E131F396A4300D3563C /* FImageView.h */,
+				21B87E141F396A4300D3563C /* FImageView.m */,
+				21B87E151F396A4300D3563C /* FLabel.h */,
+				21B87E161F396A4300D3563C /* FLabel.m */,
+				21B87E171F396A4300D3563C /* FView.h */,
+				21B87E181F396A4300D3563C /* FView.m */,
+				21B87E0C1F39697400D3563C /* HDEFINE.h */,
+				21B87E1C1F396AC700D3563C /* PrefixHeader.pch */,
+				21B87E201F39886F00D3563C /* yes@2x.png */,
 				21B87DDF1F3968A700D3563C /* Main.storyboard */,
 				21B87DE21F3968A700D3563C /* Assets.xcassets */,
 				21B87DE41F3968A700D3563C /* LaunchScreen.storyboard */,
@@ -249,6 +286,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21B87E211F39886F00D3563C /* yes@2x.png in Resources */,
 				21B87DE61F3968A700D3563C /* LaunchScreen.storyboard in Resources */,
 				21B87DE31F3968A700D3563C /* Assets.xcassets in Resources */,
 				21B87DE11F3968A700D3563C /* Main.storyboard in Resources */,
@@ -276,8 +314,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21B87E191F396A4300D3563C /* FImageView.m in Sources */,
+				21B87E1A1F396A4300D3563C /* FLabel.m in Sources */,
 				21B87DDE1F3968A700D3563C /* ViewController.m in Sources */,
+				21B87E111F3969EC00D3563C /* FProgressView.m in Sources */,
+				21B87E1F1F396E7100D3563C /* SelectItemCell.m in Sources */,
+				21B87E0B1F39692000D3563C /* SettingView.m in Sources */,
 				21B87DDB1F3968A700D3563C /* AppDelegate.m in Sources */,
+				21B87E1B1F396A4300D3563C /* FView.m in Sources */,
 				21B87DD81F3968A700D3563C /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -428,6 +472,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 246A9D29DN;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/Fill-Select/PrefixHeader.pch";
 				INFOPLIST_FILE = "Fill-Select/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.TulipSport.Fill-Select";
@@ -440,6 +485,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 246A9D29DN;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/Fill-Select/PrefixHeader.pch";
 				INFOPLIST_FILE = "Fill-Select/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.TulipSport.Fill-Select";
